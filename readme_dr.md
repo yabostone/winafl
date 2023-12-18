@@ -1,5 +1,7 @@
 # Dynamorio Instrumentation mode
 
+update update
+
 ## How it works
 
 This mode relies on dynamic instrumentation using DynamoRIO
